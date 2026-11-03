@@ -1,6 +1,6 @@
 # @swal/vault
 
-[![CI](https://github.com/iberi22/swal-vault-core/actions/workflows/ci.yml/badge.svg)](https://github.com/iberi22/swal-vault-core/actions/workflows/ci.yml)
+[![CI](https://github.com/southwest-ai-labs/swal-vault-core/actions/workflows/ci.yml/badge.svg)](https://github.com/southwest-ai-labs/swal-vault-core/actions/workflows/ci.yml)
 
 Pure WebCrypto end-to-end encrypted (E2EE) storage core with Shamir's Secret Sharing (2-of-3 threshold), AES-256-GCM authenticated encryption with associated data (AEAD), and zero-knowledge cloud synchronization.
 
